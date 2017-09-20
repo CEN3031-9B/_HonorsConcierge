@@ -1,6 +1,6 @@
 {
-  "name": "meanjs",
-  "description": "Fullstack JavaScript with MongoDB, Express, AngularJS, and Node.js.",
+  "name": "honorsconcierge",
+  "description": "The go-to place for UF Honors Program advising help",
   "homepage": "http://meanjs.org/",
   "license": "MIT",
   "dependencies": {
