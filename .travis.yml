@@ -42,3 +42,7 @@ notifications:
     on_success: change  # options: [always|never|change] default: always
     on_failure: always  # options: [always|never|change] default: always
     on_start: never     # options: [always|never|change] default: always
+  slack:
+    secure: EJPpeAMPFaLA1NR1Cg0Pr25ytosb5WHGylt5Z0qHt2rePo5cK3rEejllVTSOLWaeDIyk3bFEUIK7u6REj10tXDjUTfnegoQZPBkjhpoJqfA6jf61s/emU+JblA99c+eMpmzu1uP8pbJKKehRcqIDBAkg7iV31g132jvT5OAqAolP1xI9vzgHw7Yn4C+SssZfUP0bccKrb4lrBkhiNpvd3Iu5xLEakXIeCJfoedx/leCmSLx8uHp2gkK6cyJkdc27nX49yhJYnIU2GNyfJuSvmcsQnZSxmgq/hIFZILGUaFTtT2EotHR6/2Crd0uhphHyvxCl0kAH5tkwN4FwguhAALOerg5H4yGa7fOlM+wx/zW8j7JbZjTEOB4czH+YeYBM0ujDGfsFMT6bJVzuCLCMdiEHEjTBW+9M4RxvAXm2iHv69rD7ty0+YmDDc4f42MBSe/O9+x8LujdWxMv0p/JH9EFa50rnnB0Pvo4gr8qHZ41RXp60fvbctVRPjigI7FdyhvFdESJcYqmtO4nETXyUQd2Dj8FHBBX6GCEmP99+Aq5+/E8wLPOjaX/0SgODuuJI7QnNIMRHF7qUSQAW7S8L4G6zuMy37N5cMWivJ0C1V+v7I+rFMbW9mUC/MEa3nrWjSQXUBIwiZQlyAAyUzLbpvxWw1zjhXrV3NKMwPQnOPJY=
+    on_success: change
+    on_failure: change
